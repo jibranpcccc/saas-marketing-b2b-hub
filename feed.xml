@@ -4,10 +4,17 @@
     <title>B2B SaaS Growth &amp; PLG Marketing Hub</title>
     <link>https://saas-marketing-b2b-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 13 Oct 2026 06:01:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 06:01:13 GMT</lastBuildDate>
     <atom:link href="https://saas-marketing-b2b-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                            <item>
+                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: Rust Language News &amp; Updates (Telegram)</title>
+      <link>https://t.me/rust_lang_news</link>
+      <guid isPermaLink="false">https://saas-marketing-b2b-hub.netlify.app/#saas-marketing-b2b-hub-telegram-20261015-1-2026-10-15</guid>
+      <pubDate>Thu, 15 Oct 2026 06:01:13 GMT</pubDate>
+      <description>Newly verified community added to B2B SaaS Growth &amp; PLG Marketing Hub: Real-time updates, releases, and deep-dive technical articles from the Rust systems ecosystem.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Rust Programming Language Discord (Discord)</title>
       <link>https://discord.gg/rust-lang</link>
       <guid isPermaLink="false">https://saas-marketing-b2b-hub.netlify.app/#saas-marketing-b2b-hub-discord-20261013-1-2026-10-13</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://saas-marketing-b2b-hub.netlify.app/#saas-marketing-b2b-hub-reddit-20260914-1-2026-09-14</guid>
       <pubDate>Mon, 14 Sep 2026 06:07:13 GMT</pubDate>
       <description>Newly verified community added to B2B SaaS Growth &amp; PLG Marketing Hub: Tactical growth loops, outbound cold email infrastructure, conversion rate optimization, and viral mechanics.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/IndieHackers Bootstrappers (Reddit)</title>
-      <link>https://www.reddit.com/r/IndieHackers/</link>
-      <guid isPermaLink="false">https://saas-marketing-b2b-hub.netlify.app/#saas-marketing-b2b-hub-reddit-20260913-1-2026-09-13</guid>
-      <pubDate>Sun, 13 Sep 2026 14:02:53 GMT</pubDate>
-      <description>Newly verified community added to B2B SaaS Growth &amp; PLG Marketing Hub: Independent software builders sharing transparent MRR metrics, product validation journeys, and micro-SaaS launches.</description>
     </item>
   </channel>
 </rss>
