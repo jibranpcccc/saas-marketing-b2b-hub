@@ -4,10 +4,17 @@
     <title>B2B SaaS Growth &amp; PLG Marketing Hub</title>
     <link>https://saas-marketing-b2b-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Fri, 16 Oct 2026 06:01:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 06:01:14 GMT</lastBuildDate>
     <atom:link href="https://saas-marketing-b2b-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                    <item>
+                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: r/cpp High Performance Systems (Reddit)</title>
+      <link>https://www.reddit.com/r/cpp/</link>
+      <guid isPermaLink="false">https://saas-marketing-b2b-hub.netlify.app/#saas-marketing-b2b-hub-reddit-20261017-1-2026-10-17</guid>
+      <pubDate>Sat, 17 Oct 2026 06:01:14 GMT</pubDate>
+      <description>Newly verified community added to B2B SaaS Growth &amp; PLG Marketing Hub: Discussions on modern C++ (C++17/20/23), memory models, template metaprogramming, and graphics pipelines.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/typescript Architecture (Reddit)</title>
       <link>https://www.reddit.com/r/typescript/</link>
       <guid isPermaLink="false">https://saas-marketing-b2b-hub.netlify.app/#saas-marketing-b2b-hub-reddit-20261016-1-2026-10-16</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://saas-marketing-b2b-hub.netlify.app/#saas-marketing-b2b-hub-reddit-20260915-1-2026-09-15</guid>
       <pubDate>Tue, 15 Sep 2026 06:01:03 GMT</pubDate>
       <description>Newly verified community added to B2B SaaS Growth &amp; PLG Marketing Hub: Practical operational knowledge, vendor contract negotiations, tax compliance, and business banking.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/sales B2B Outbound &amp; Pipeline (Reddit)</title>
-      <link>https://www.reddit.com/r/sales/</link>
-      <guid isPermaLink="false">https://saas-marketing-b2b-hub.netlify.app/#saas-marketing-b2b-hub-reddit-20260914-1-2026-09-14</guid>
-      <pubDate>Mon, 14 Sep 2026 10:45:13 GMT</pubDate>
-      <description>Newly verified community added to B2B SaaS Growth &amp; PLG Marketing Hub: Enterprise software sales tactics, discovery call frameworks, quota attainment, and CRM pipeline management.</description>
     </item>
   </channel>
 </rss>
