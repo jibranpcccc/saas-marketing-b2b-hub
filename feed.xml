@@ -4,10 +4,17 @@
     <title>B2B SaaS Growth &amp; PLG Marketing Hub</title>
     <link>https://saas-marketing-b2b-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Thu, 19 Nov 2026 06:02:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 06:01:12 GMT</lastBuildDate>
     <atom:link href="https://saas-marketing-b2b-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: r/startups Founders &amp; Builders (Reddit)</title>
+      <link>https://www.reddit.com/r/startups/</link>
+      <guid isPermaLink="false">https://saas-marketing-b2b-hub.netlify.app/#b2b-saas-growth-plg-marketing-hub-reddit-3-2026-11-20</guid>
+      <pubDate>Fri, 20 Nov 2026 06:01:12 GMT</pubDate>
+      <description>Newly verified community added to B2B SaaS Growth &amp; PLG Marketing Hub: Discussions on product-market fit, customer discovery interviews, investor pitch decks, and bootstrapping.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/marketing Growth &amp; Strategy (Reddit)</title>
       <link>https://www.reddit.com/r/marketing/</link>
       <guid isPermaLink="false">https://saas-marketing-b2b-hub.netlify.app/#b2b-saas-growth-plg-marketing-hub-reddit-2-2026-11-19</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://saas-marketing-b2b-hub.netlify.app/#saas-marketing-b2b-hub-forum-20261021-1-2026-10-21</guid>
       <pubDate>Wed, 21 Oct 2026 06:01:16 GMT</pubDate>
       <description>Newly verified community added to B2B SaaS Growth &amp; PLG Marketing Hub: The world's largest repository of solved Python questions, debugging threads, and code snippets.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Next.js GitHub Discussions (GitHub)</title>
-      <link>https://github.com/vercel/next.js/discussions</link>
-      <guid isPermaLink="false">https://saas-marketing-b2b-hub.netlify.app/#saas-marketing-b2b-hub-github-20261020-1-2026-10-20</guid>
-      <pubDate>Tue, 20 Oct 2026 06:01:27 GMT</pubDate>
-      <description>Newly verified community added to B2B SaaS Growth &amp; PLG Marketing Hub: Active community discussions and RFCs on Next.js architectures, streaming SSR, and edge rendering.</description>
     </item>
   </channel>
 </rss>
